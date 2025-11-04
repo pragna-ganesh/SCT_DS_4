@@ -1,4 +1,3 @@
-# README.md
 
 # US Road Accident Analysis – Clustering & EDA
 
